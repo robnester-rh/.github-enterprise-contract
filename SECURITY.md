@@ -1,3 +1,8 @@
+# This organization has been deprecated.
+
+Please update your references to the appropriate repository in the [Conforma](https://github.com/conforma) organization.
+
+<strike>
 # Security Policy
 
 ## Reporting a Vulnerability
@@ -8,3 +13,4 @@ See detailed [instructions]([url](https://docs.github.com/en/code-security/secur
 The maintainers will respond within 3 working days of the report.
 If the issue is confirmed as a vulnerability, we will open a Security Advisory.
 We will fully acknowledge the reporter for responsibly disclosing the vulnerability.
+</strike>

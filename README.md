@@ -1,3 +1,8 @@
+# This organization has been deprecated.
+
+Please update your references to the appropriate repository in the [Conforma](https://github.com/conforma) organization.
+
+<strike>
 # .github
 
 This repository stores GitHub specific information that applies to all the repositories within the
@@ -27,3 +32,4 @@ it. For example, it is not possible to create a pull request targeting a brand-n
 In such cases, add a temporary exception target for the corresponding ruleset. Remember to revert
 this change. Alternatively, avoid creating empty repositories altogether by always choosing to
 include a license.
+</strike>

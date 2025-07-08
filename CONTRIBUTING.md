@@ -1,3 +1,7 @@
+# This organization has been deprecated.
+Please update your references to the appropriate repository in the [Conforma](https://github.com/conforma) organization.
+
+<strike>
 # Contributing
 
 Enterprise Contract welcomes contributions in many forms. [Pull requests](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request) are specifically appreciated and the maintainers will make every effort to assist with any issues in the pull request discussion. Feel free to create a pull request even if you are new to the process. If you need more information, see [this article](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) about how creating a pull request.
@@ -104,3 +108,4 @@ Before a pull request can be merged:
 * The feature branch must be rebased so it contains the latest changes from the target branch
 * The CI has to pass successfully
 * Every comment has to be addressed and resolved
+</strike>
